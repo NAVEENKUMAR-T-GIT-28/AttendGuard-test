@@ -330,7 +330,13 @@ The system uses **8 MongoDB collections**:
 
 ## 📄 License
 
-This project is licensed under the **ISC License**.
+This project is licensed under the [**MIT License**](LICENSE).
+
+---
+
+## ⚠️ Disclaimer
+This project is developed for educational purposes only.
+The author is not responsible for any misuse or damages caused by this software.
 
 ---
 
